@@ -15,5 +15,7 @@ int main() {
 	cout << c_one << endl;
 	c_one.sub(c_two);
 	cout << c_one << endl;
+	cout << c_two << endl;
+	//done
 	return 0;
 }
